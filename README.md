@@ -1,5 +1,5 @@
 # Trip-Advisor
-# TripAdvisor-Style Website
+
 
 This project is a simple travel review website inspired by TripAdvisor. It is built using HTML and CSS and includes features such as image galleries, destination reviews, and a responsive layout for both desktop and mobile views.
 
